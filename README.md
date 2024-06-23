@@ -3,14 +3,14 @@
 Link to the dataset
 https://www.kaggle.com/datasets/andrewmvd/face-mask-detection/data
 
-Creating kaggle folder:
+### Creating kaggle folder:
 1. Open the downloaded dataset folder which contains images and annotations.
 2. Create a new folder "kaggle"
 3. Create new folders "input" and "working" inside "kaggle" folder
 4. Create a new folder "face-mask-detection" inside "input" folder
 5. Copy the images and annotations folder to "face-mask-detection" folder
 
-
+### Steps to follow
 
 1. Copy the complete kaggle dataset folder to your google drive.
 2. Copy the weights folder to the google drive
