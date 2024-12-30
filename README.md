@@ -1,7 +1,3 @@
-Here's how the information can be formatted into a clear and concise README file for your new project:
-
----
-
 # Face Mask Detection Using YOLOv5
 
 This project implements a face mask detection system using YOLOv5. It utilizes the Kaggle dataset for face mask detection and provides a streamlined process for training, testing, and inference. 
